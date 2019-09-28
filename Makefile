@@ -2,7 +2,7 @@ NAME ?= UNiQuE
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := ZenUi-stock
+CODE := kernel
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 

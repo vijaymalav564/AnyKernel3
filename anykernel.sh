@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=UNiQuE Kernel ZenUi by raza231198 @ telegram
+kernel.string=stormbreaker Kernel ZenUi by iamsaalim @ telegram
 do.devicecheck=1
 do.modules=1
 do.cleanup=1

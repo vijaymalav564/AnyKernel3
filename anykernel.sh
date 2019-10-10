@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=stormbreaker Kernel ZenUi by iamsaalim @ telegram
+kernel.string=stormbreaker Kernel by iamsaalim @ telegram
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=X00PD
-device.name2=X00P
-device.name3=
-device.name4=
+device.name1=rmx1801
+device.name2=rmx1803
+device.name3=rmx1807
+device.name4=realme2pro
 device.name5=
 supported.versions=
 '; } # end properties

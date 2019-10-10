@@ -1,4 +1,4 @@
-NAME ?= UNiQuE
+NAME ?= Stormbreaker
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 

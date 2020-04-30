@@ -1,4 +1,4 @@
-NAME ?= Stormbreaker
+NAME ?= LockDown
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 

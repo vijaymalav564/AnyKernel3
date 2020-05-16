@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=LockDown by VijayMalav
+kernel.string=LockDown Kernel by VijayMalav
 do.devicecheck=1
 do.modules=0
 do.systemless=1
